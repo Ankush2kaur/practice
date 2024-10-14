@@ -1,0 +1,94 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "Leanne Graham",
+      "email": "Sincere@april.biz",
+      "phone": "9988786745"
+    },
+    {
+      "id": "2",
+      "name": "Ervin Howell",
+      "email": "Shanna@melissa.tv",
+      "phone": "3434567899"
+    },
+    {
+      "id": "3",
+      "name": "Clementine Bauch",
+      "username": "Samantha",
+      "email": "Nathan@yesenia.net",
+      "phone": "8987867564"
+    },
+    {
+      "id": "4",
+      "name": "Patricia Lebsack",
+      "email": "Julianne.OConner@kory.org",
+      "phone": "8789876543"
+    },
+    {
+      "id": "5",
+      "name": "Chelsey Dietrich",
+      "email": "Lucio_Hettinger@annie.ca",
+      "phone": "2345678909"
+    },
+    {
+      "id": "6",
+      "name": "Mrs. Dennis Schulist",
+      "username": "Leopoldo_Corkery",
+      "email": "Karley_Dach@jasper.info",
+      "phone": "199999767"
+    },
+    {
+      "id": "7",
+      "name": "Kurtis Weissnat",
+      "username": "Elwyn.Skiles",
+      "email": "Telly.Hoeger@billy.biz",
+      "phone": "8989898989"
+    },
+    {
+      "id": "8",
+      "name": "Nicholas Runolfsdottir V",
+      "username": "Maxime_Nienow",
+      "email": "Sherwood@rosamond.me",
+      "phone": "4936943140"
+    },
+    {
+      "id": "9",
+      "name": "Glenna Reichert",
+      "username": "Delphine",
+      "email": "Chaim_McDermott@dana.io",
+      "phone": "6679441206"
+    },
+    {
+      "id": "10",
+      "name": "Clementina DuBuque",
+      "username": "Moriah.Stanton",
+      "email": "Rey.Padberg@karina.biz",
+      "phone": "246483804"
+    },
+    {
+      "id": "11",
+      "name": "Ana Fritz",
+      "email": "anan@fritzgmail.com",
+      "phone": "8847267546"
+    },
+    {
+      "id": "12",
+      "name": "Ankush Kaur",
+      "email": "ankushkaur2002@gmail.com",
+      "phone": "08847268537"
+    },
+    {
+      "id": "23",
+      "name": "Ankush Kaur",
+      "email": "ankushkaur2002@gmail.com",
+      "phone": "08847268537"
+    },
+    {
+      "id": "1",
+      "name": "Ankush Kaur",
+      "email": "ankushkaur2002@gmail.com",
+      "phone": "08847268537"
+    }
+  ]
+}
